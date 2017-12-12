@@ -34,10 +34,10 @@ Esses requisitos não são obrigatórios, mas seram levados em consideração co
 2. Salvar data em que uma mensagem foi arquivada.
 - No momento em que você lê uma mensagem a data da leitura é salva na base de dados.
 
-3. Na listagem de mensagem mostrar o nome do usuário que criou a mensagem e resolver problema de N+1.
+3. Na listagem de mensagem mostrar o nome do usuário que criou a mensagem e evitar problema de N+1.
 4. A lista de mensagens deve ser ordenada por data de criação em ordem decrescente
 5. Uma boa aparência da aplicação e dominio de usuabilidade será um diferencial.
-6. Adapte a aplicação para funcionar também como API restful funcionando cross domain e liberando o acesso via token de autenticação.
+6. Adapte a aplicação para funcionar também como API restful.
 
 #### Processo de submissão
 
