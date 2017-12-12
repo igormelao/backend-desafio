@@ -12,7 +12,7 @@ A aplicação é uma mini caixa de mensagens(no estilo gmail) na qual o usuário
 - Tela de criação de mensagens.
 - Ao escrever uma mensagem redirecionar para tela listagem de mensagens, as mensagens que não são lidas serão exibidas em negrito.
 - Para ler uma mensagem basta clicar no título dela.
-- Ao ler uma mensagem ela deverá mudar seu status para visualiada.
+- Ao ler uma mensagem ela deverá mudar seu status para visualizada.
 - As mensagens nunca devem ser apagadas, mas ao remover uma mensagem ela deve ser marcada(status) como arquivada.
 - Mensagens arquivadas não devem ser exibidas na listagem de mensagens.
 
